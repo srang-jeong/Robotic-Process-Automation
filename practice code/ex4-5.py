@@ -14,3 +14,5 @@ for i in range( len(fruits) ):
 # 3. enumerate() 함수
 for index, fruit in enumerate(fruits):
     print(f'{index}, {fruit}')
+
+# 깃 테스트

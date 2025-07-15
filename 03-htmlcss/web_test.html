@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>수강신청 시스템 · 관리자버전</title>
+  <style>
+    body { font-family: 'Malgun Gothic', Arial, sans-serif; background: #f4f4fe; margin: 0; }
+    #container { max-width: 720px; margin: 40px auto 0; background: #fff; padding: 32px 36px 40px; border-radius: 10px; box-shadow: 0 2px 16px #33447722; }
+    h1 { color: #234188; border-bottom: 1px solid #eee; padding-bottom: 12px; }
+    nav { margin: 24px 0 20px; }
+    nav button { margin-right: 8px; padding: 8px 18px; border: none; background: #e8eaff; color: #234188; border-radius: 5px; font-weight: bold; cursor: pointer; }
+    nav button.active, nav button:hover { background: #234188; color: #fff; }
+    .hidden { display: none; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+    th, td { border: 1px solid #e3e3e3; padding: 7px 6px; text-align: center; }
+    th { background: #f9fbfd; }
+    .tag { font-size: 13px; color:#358; background: #dee9fb; padding: 1px 8px 1.5px; border-radius: 6px; margin-left:5px; }
+    #addCourseRow, #addUserRow { background: #e7f2ff; }
+    .logout { float:right; border:none; background:none; cursor:pointer; color:#b21; font-weight:bold; font-size:13px; }
+    .notice { color: #c22; font-size: 13px; margin-bottom: 10px;}
+    .popup-bg { position:fixed; left:0; top:0; right:0; bottom:0; background:rgba(60,80,200,0.09); z-index:30; display: flex; align-items: center; justify-content: center;}
+    .popup { background:#fff; border-radius:10px; box-shadow:0 2px 12px #33447733; padding:34px 20px 16px; min-width:300px;}
+    .popup button {margin-top:12px;}
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1>수강신청 시스템 <span id="adminTag" class="tag hidden">관리자</span>
+      <button id="logoutBtn" class="logout hidden" onclick="logout()">로그아웃</button>
+    </h1>
+    <div id="loginPage">
+      <form id="loginForm">
+        <nav>
+          <button type="button" id="showLogin" class="active" onclick="switchTabLogin('login')">로그인</button>
+          <button type="button" id="showSignup" onclick="switchTabLogin('signup')">회원가입</button>
+        </nav>
+        <div id="loginBox">
+          <input id="loginEmail" type="email" placeholder="이메일" required style="margin-bottom: 7px; width: 50%;">
+          <input id="loginPw" type="password" placeholder="비밀번호" required style="width: 50%;">
+          <button type="submit" style="margin-top:12px;">로그인</button>
+        </div>
+      </form>
+      <form id="signupForm" class="hidden">
+        <div>
+          <input id="signupName" placeholder="이름" required style="margin-bottom: 7px; width: 35%;">
+          <input id="signupEmail" type="email" placeholder="이메일" required style="width:31%;"> 
+          <input id="signupPw" type="password" placeholder="비밀번호" required style="width:28%;">
+          <button type="submit" style="margin-top:12px;">회원가입</button>
+        </div>
+      </form>
+    </div>
+    <div id="mainPage" class="hidden">
+      <nav>
+        <button id="tabCourses" class="active" onclick="switchTab('courses')">강좌목록</button>
+        <button id="tabMy" onclick="switchTab('mycourses')">내 수강</button>
+        <button id="tabMembers" class="hidden" onclick="switchTab('members')">회원관리</button>
+      </nav>
+      <div id="courses">
+        <h2>강좌 목록</h2>
+        <div id="adminCourseBar" class="hidden" style="margin-bottom:8px;">
+          <button onclick="addCourseMode()">+ 강좌추가</button>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>강좌명</th><th>교수</th><th>정원</th><th>신청/취소</th>
+              <th id="delTh" class="hidden">삭제</th>
+            </tr>
+          </thead>
+          <tbody id="courseList"></tbody>
+        </table>
+      </div>
+      <div id="mycourses" class="hidden">
+        <h2>내 수강 목록</h2>
+        <ul id="myCourses"></ul>
+      </div>
+      <div id="members" class="hidden">
+        <h2>회원 리스트 <span style="font-size:13px; color:#777">(관리자만)</span></h2>
+        <table>
+          <thead>
+            <tr><th>이름</th><th>이메일</th><th>회원종류</th><th>가입일</th><th>삭제</th></tr>
+          </thead>
+          <tbody id="userList"></tbody>
+        </table>
+      </div>
+    </div>
+    <div id="popupBg" class="popup-bg hidden">
+      <div class="popup" id="popupBox"></div>
+    </div>
+  </div>
+  <script>
+    // 관리자 기본 계정
+    const admin = {name:"관리자", email:"admin@admin.com", pw:"1234", isAdmin:true, joined:today()};
+    const users = [admin];
+    let courses = [
+      {id:1, title:'알고리즘', professor:'김코딩', max:3, enrolled:0},
+      {id:2, title:'웹프로그래밍', professor:'이웹', max:2, enrolled:0}
+    ];
+    let enrollments = {}; // {이메일:[강좌id]}
+    let currentUser = null, addCourseOpen=false;
+
+    function today() {
+      let d=new Date();
+      return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");
+    }
+
+    function switchTab(tab) {
+      document.getElementById('courses').classList.add('hidden');
+      document.getElementById('mycourses').classList.add('hidden');
+      document.getElementById('members').classList.add('hidden');
+      document.getElementById('tabCourses').classList.remove('active');
+      document.getElementById('tabMy').classList.remove('active');
+      document.getElementById('tabMembers').classList.remove('active');
+      if(tab==='courses') {
+        document.getElementById('courses').classList.remove('hidden');
+        document.getElementById('tabCourses').classList.add('active');
+      } else if(tab==='mycourses') {
+        document.getElementById('mycourses').classList.remove('hidden');
+        document.getElementById('tabMy').classList.add('active');
+      } else if(tab==='members') {
+        document.getElementById('members').classList.remove('hidden');
+        document.getElementById('tabMembers').classList.add('active');
+      }
+    }
+
+    function switchTabLogin(tab){
+      document.getElementById('loginForm').classList.add('hidden'); 
+      document.getElementById('signupForm').classList.add('hidden');
+      document.getElementById('showLogin').classList.remove('active'); 
+      document.getElementById('showSignup').classList.remove('active');
+      if(tab==="login") { 
+        document.getElementById('loginForm').classList.remove('hidden'); 
+        document.getElementById('showLogin').classList.add('active'); 
+      }
+      else { 
+        document.getElementById('signupForm').classList.remove('hidden'); 
+        document.getElementById('showSignup').classList.add('active'); 
+      }
+    }
+
+    document.getElementById('loginForm').onsubmit = function(e){
+      e.preventDefault();
+      let email=document.getElementById('loginEmail').value, pw=document.getElementById('loginPw').value;
+      let u = users.find(u=>u.email===email && u.pw===pw);
+      if(!u) return showNotice("이메일/비밀번호 불일치",true);
+      currentUser = u;
+      document.getElementById('loginPage').classList.add('hidden');
+      document.getElementById('mainPage').classList.remove('hidden');
+      document.getElementById("logoutBtn").classList.remove('hidden');
+      document.getElementById("adminTag").classList.toggle('hidden', !u.isAdmin);
+      document.getElementById("tabMembers").classList.toggle("hidden",!u.isAdmin);
+      document.getElementById("adminCourseBar").classList.toggle('hidden',!u.isAdmin);
+      document.getElementById("delTh").classList.toggle('hidden',!u.isAdmin);
+      switchTab("courses");
+      renderCourses();
+      renderMyCourses();
+      if(u.isAdmin){renderUsers();}
+      showNotice("로그인 성공!",false,1200);
+    };
+
+    document.getElementById('signupForm').onsubmit = function(e) {
+      e.preventDefault();
+      let name = document.getElementById('signupName').value, email=document.getElementById('signupEmail').value, pw=document.getElementById('signupPw').value;
+      if(users.some(u=>u.email===email)) return showNotice("이미 가입!",true);
+      if(email==="admin@admin.com") return showNotice("관리자 이메일 사용 불가",true);
+      users.push({name, email, pw, isAdmin:false, joined:today()});
+      showNotice("회원가입 완료! 로그인 해주세요",false,1200);
+      document.getElementById('signupForm').reset();
+      switchTabLogin("login");
+    };
+
+    function logout() {
+      document.getElementById('mainPage').classList.add('hidden');
+      document.getElementById('loginPage').classList.remove('hidden');
+      document.getElementById('logoutBtn').classList.add('hidden');
+      currentUser = null;
+      switchTabLogin("login");
+    }
+
+    function renderCourses() {
+      const courseList = document.getElementById('courseList');
+      courseList.innerHTML="";
+      courses.forEach(c=>{
+        let myList=(enrollments[currentUser.email]||[]);
+        let isEnrolled = myList.includes(c.id);
+        let disableEnroll = isEnrolled || c.enrolled>=c.max;
+        let tr = document.createElement("tr");
+        tr.innerHTML=`
+          <td>${c.title}</td>
+          <td>${c.professor}</td>
+          <td>${c.enrolled}/${c.max}</td>
+          <td>
+            <button 
+              onclick="enroll(${c.id})"
+              ${disableEnroll?"disabled":""}
+              >${isEnrolled?"신청됨":c.enrolled>=c.max?"마감":"신청"}</button>
+            ${isEnrolled? `<button onclick="cancelEnroll(${c.id})" style="margin-left:4px;">취소</button>` : ""}
+          </td>
+          <td ${!currentUser.isAdmin?"style='display:none'":""}>
+            <button onclick='deleteCourse(${c.id})'>삭제</button>
+          </td>
+        `;
+        courseList.appendChild(tr);
+      });
+      if(currentUser.isAdmin && addCourseOpen) showAddCourseRow();
+    }
+
+    function enroll(cid){
+      if(!enrollments[currentUser.email]) enrollments[currentUser.email]=[];
+      if(enrollments[currentUser.email].includes(cid)) return;
+      enrollments[currentUser.email].push(cid);
+      let idx = courses.findIndex(c=>c.id===cid);
+      courses[idx].enrolled+=1;
+      renderCourses(); renderMyCourses();
+    }
+    function cancelEnroll(cid){
+      if(!enrollments[currentUser.email]) return;
+      enrollments[currentUser.email]=enrollments[currentUser.email].filter(x=>x!==cid);
+      let idx = courses.findIndex(c=>c.id===cid);
+      courses[idx].enrolled-=1;
+      renderCourses(); renderMyCourses();
+    }
+    function addCourseMode(){
+      addCourseOpen=true; renderCourses();
+    }
+    function showAddCourseRow(){
+      let courseList = document.getElementById('courseList');
+      let tr=document.createElement("tr"); tr.id="addCourseRow";
+      tr.innerHTML=`
+        <td><input id="_ctitle"></td>
+        <td><input id="_cpro"></td>
+        <td><input id="_cmax" type="number" min="1" max="100" value="2" style="width:54px"></td>
+        <td colspan="2"><button onclick="addCourse()">저장</button> <button onclick="cancelAddCourse()">취소</button></td>
+      `;
+      courseList.prepend(tr);
+    }
+    function cancelAddCourse(){ addCourseOpen=false; renderCourses();}
+    function addCourse(){
+      let title=document.getElementById('_ctitle').value, professor=document.getElementById('_cpro').value, max=Number(document.getElementById('_cmax').value);
+      if(!title||!professor||!max) return showNotice("모든 칸 입력",true);
+      courses.push({id:Date.now(),title, professor, max, enrolled:0});
+      addCourseOpen=false; renderCourses();
+      showNotice("강좌 추가됨!");
+    }
+    function deleteCourse(cid){
+      let idx=courses.findIndex(c=>c.id===cid);
+      if(idx<0) return;
+      for (const key in enrollments) {
+        enrollments[key]=enrollments[key].filter(x=>x!==cid);
+      }
+      courses.splice(idx,1); renderCourses(); renderMyCourses();
+      showNotice("강좌 삭제됨!");
+    }
+
+    function renderMyCourses() {
+      const myCourses = document.getElementById('myCourses');
+      myCourses.innerHTML="";
+      let arr = enrollments[currentUser.email]||[];
+      if(arr.length===0){ myCourses.innerHTML="<span>신청한 강좌 없음</span>"; return;}
+      arr.forEach(cid=>{
+        let c = courses.find(c=>c.id===cid);
+        if(!c) return;
+        let li=document.createElement("li");
+        li.textContent=c.title+" ("+c.professor+")";
+        myCourses.appendChild(li);
+      });
+    }
+
+    function renderUsers(){
+      const userList = document.getElementById('userList');
+      userList.innerHTML="";
+      users.forEach((u,i)=>{
+        let tr=document.createElement("tr");
+        tr.innerHTML=`
+          <td>${u.name}</td>
+          <td>${u.email}</td>
+          <td>${u.isAdmin?"관리자":"일반회원"}</td>
+          <td>${u.joined}</td>
+          <td>${u.isAdmin?"":"<button onclick='deleteUser("+i+")'>삭제</button>"}</td>
+        `;
+        userList.appendChild(tr);
+      });
+    }
+    function deleteUser(idx){
+      let u = users[idx];
+      if(u.isAdmin) return showNotice("관리자 삭제 불가",true);
+      users.splice(idx,1);
+      delete enrollments[u.email];
+      renderUsers(); showNotice("회원삭제!");
+    }
+
+    function showNotice(msg, error, delay) {
+      document.getElementById("popupBg").classList.remove('hidden');
+      document.getElementById("popupBox").innerHTML=`<span class='notice' style="color:${error?'#c22':'#228'}">${msg}</span><br>
+      <button onclick="closePopup()">닫기</button>`;
+      if(delay) setTimeout(closePopup, delay);
+    }
+    function closePopup(){document.getElementById("popupBg").classList.add('hidden');}
+
+    document.getElementById('showLogin').onclick=()=>switchTabLogin('login');
+    document.getElementById('showSignup').onclick=()=>switchTabLogin('signup');
+    window.enroll=enroll; window.cancelEnroll=cancelEnroll;
+    window.deleteCourse=deleteCourse; window.closePopup=closePopup;
+    window.deleteUser=deleteUser; window.addCourseMode=addCourseMode; window.cancelAddCourse=cancelAddCourse; window.addCourse=addCourse;
+
+    window.onload=function(){ switchTabLogin("login"); };
+  </script>
+</body>
+</html>

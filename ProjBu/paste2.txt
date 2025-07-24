@@ -1,0 +1,1801 @@
+				
+<!--@#$ INFO AREA $#@-->
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507151483585', '2')" class="cont">
+						<strong class="tit_a"><span> 라온지 1동</span><em><span class="tag_comm2 w">월세</span>2,000 / 45 만원</em></strong>
+						<span class="tag_comm3 type3">추천매물<em>25.07.15</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 66.86B-2/30.78㎡ 고층/총15층 <!--1동--></span>
+							<em>성대정문  근거리      구운동이마트인근  신축오피스텔로 입주협의</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  구운동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>청산랜드공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-297-8855</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20140124180010')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^라온지^r114^경기도^r114^수원시^r114^구운동', 'F20140124180010', '청산랜드공인중개사사무소', 'R2507151483585', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507151483585', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507151483585" value="R2507151483585| 라온지|월세|2,000 / 45" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507151483585"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507051532192', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 90 만원</em></strong>
+						<span class="tag_comm3 type3">추천매물<em>25.07.05</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 162.01/74.65㎡ 7층/총16층 <!--1동--></span>
+							<em>즉시입주 사업자용 전망굿 영통역세권대로변위치 교통주차편리</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class r">R</i>드림공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-204-6333</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700068')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700068', '드림공인', 'R2507051532192', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507051532192', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507051532192" value="R2507051532192| 훼미리타워|월세|1,000 / 90" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507051532192"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507221390568', '2')" class="cont">
+						<strong class="tit_a"><span> 광교SK뷰레이크A B동</span><em><span class="tag_comm2 w">월세</span>20,000 / 180 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.22</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/19/1bb065e7-faa5-4fe7-abcc-68d20a28c4f3.png' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 183.13B/84.96㎡ 저층/총41층 <!--B동--></span>
+							<em>광교SK뷰레이크 4bay 모든방과 거실 모두 호수뷰</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  하동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>SK뷰단지내212-2227공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-212-2227</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20250500000013')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^광교SK뷰레이크A^r114^경기도^r114^수원시^r114^하동', 'F20250500000013', 'SK뷰단지내212-2227공인중개사사무소', 'R2507221390568', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507221390568', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507221390568" value="R2507221390568| 광교SK뷰레이크A|월세|20,000 / 180" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507221390568"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211062213', '2')" class="cont">
+						<strong class="tit_a"><span> 에이스에비뉴더퍼스트 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 100 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/04/7c812d8a-18e2-4d63-b524-3d6778b5510c.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 108.75A/53.18㎡ 저층/총10층 <!--1동--></span>
+							<em>화홍병원 인근 깔끔 신축 투룸 오피스텔</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  호매실동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^에이스에비뉴더퍼스트^r114^경기도^r114^수원시^r114^호매실동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507211062213', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211062213', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211062213" value="R2507211062213| 에이스에비뉴더퍼스트|월세|1,000 / 100" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211062213"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211575307', '2')" class="cont">
+						<strong class="tit_a"><span> 알스퀘어(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,000 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/21/9f27a68d-9f8c-4190-8478-151974eaae66.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 51.01/25.2㎡ 고층/총12층 <!--1동--></span>
+							<em>23년 신축. 8평. 수원시청역세권. 남향. 전입가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^알스퀘어(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211575307', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211575307', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211575307" value="R2507211575307| 알스퀘어(민간임대)|월세|4,000 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211575307"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211575229', '2')" class="cont">
+						<strong class="tit_a"><span> 알스퀘어(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,000 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/21/3fb1901a-a67b-4850-a04a-58661b4b9dc1.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 51.73/25.55㎡ 고층/총12층 <!--1동--></span>
+							<em>23년 신축. 7월 말. 수원시청역세권. 북향. 전입가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^알스퀘어(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211575229', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211575229', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211575229" value="R2507211575229| 알스퀘어(민간임대)|월세|4,000 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211575229"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211575044', '2')" class="cont">
+						<strong class="tit_a"><span> 고색리치아노 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/27/5e75c5a6-1cee-4b12-80bf-978c9044a4ac.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 27.99A/21.11㎡ 고층/총10층 <!--1동--></span>
+							<em>A타입. 업무용. 보증금조정가능. 단기가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고색동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^고색리치아노^r114^경기도^r114^수원시^r114^고색동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211575044', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211575044', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211575044" value="R2507211575044| 고색리치아노|월세|1,000 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211575044"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211574970', '2')" class="cont">
+						<strong class="tit_a"><span> 고색리치아노 1동</span><em><span class="tag_comm2 w">월세</span>500 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/27/877af152-5291-4334-a0f9-51c7adef3cdd.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 27.99A/21.11㎡ 고층/총10층 <!--1동--></span>
+							<em>A타입. 업무용. 보증금조정가능. 단기가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고색동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^고색리치아노^r114^경기도^r114^수원시^r114^고색동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211574970', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211574970', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211574970" value="R2507211574970| 고색리치아노|월세|500 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211574970"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211574052', '2')" class="cont">
+						<strong class="tit_a"><span> 더올리브(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>3,000 / 100 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/20/ebb74ee7-4a98-43ef-8299-1ed7378d424f.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 110.35/57.51㎡ 중층/총8층 <!--1동--></span>
+							<em>빠른입주가능. 무융자. 보증보험. 풀옵션. 전입가능</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^더올리브(민간임대)^r114^경기도^r114^수원시^r114^인계동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211574052', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211574052', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211574052" value="R2507211574052| 더올리브(민간임대)|월세|3,000 / 100" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211574052"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211574906', '2')" class="cont">
+						<strong class="tit_a"><span> 고색리치아노 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 60 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/27/c4c6517f-7fa6-4d09-bcc2-07796605de78.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 36.7B/27.68㎡ 고층/총10층 <!--1동--></span>
+							<em>넓은B타입. 업무용. 보증금조정가능. 단기가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고색동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^고색리치아노^r114^경기도^r114^수원시^r114^고색동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211574906', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211574906', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211574906" value="R2507211574906| 고색리치아노|월세|1,000 / 60" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211574906"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507201154626', '2')" class="cont">
+						<strong class="tit_a"><span> e편한세상시티광교 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 82 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.20</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/21/ea2b2227-b719-4f40-91fb-24cd4d17da36.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 60.33/21.56㎡ 고층/총15층 <!--1동--></span>
+							<em>무융자 전입가능l 즉시입주 가능한 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  이의동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25032000000004')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^e편한세상시티광교^r114^경기도^r114^수원시^r114^이의동', 'F25032000000004', 'The베스트공인중개사사무소', 'R2507201154626', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507201154626', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507201154626" value="R2507201154626| e편한세상시티광교|월세|1,000 / 82" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507201154626"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507191046015', '2')" class="cont">
+						<strong class="tit_a"><span> 시리우스에스(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>9,000 / 90 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.19</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/02/461160d8-3cce-4622-aafb-703081bb0793.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 87.74/46.73㎡ 고층/총12층 <!--1동--></span>
+							<em>투룸 복층 테라스. 반려동물가능. 전입가능. 보증보험가입완료</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^시리우스에스(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507191046015', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507191046015', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507191046015" value="R2507191046015| 시리우스에스(민간임대)|월세|9,000 / 90" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507191046015"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507191045988', '2')" class="cont">
+						<strong class="tit_a"><span> 시리우스에스(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,800 / 70 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.19</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/02/461160d8-3cce-4622-aafb-703081bb0793.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 48.23/25.44㎡ 중층/총12층 <!--1동--></span>
+							<em>안심월세. 풀옵션. 반려동물가능. 전입가능</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^시리우스에스(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507191045988', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507191045988', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507191045988" value="R2507191045988| 시리우스에스(민간임대)|월세|4,800 / 70" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507191045988"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507181336768', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>500 / 40 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.18</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 62.93G/28.44㎡ 13층/총16층 <!--1동--></span>
+							<em>주거용, 깨끗해요</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>월드공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-204-2002</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700075')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700075', '월드공인중개사사무소', 'R2507181336768', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507181336768', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507181336768" value="R2507181336768| 훼미리타워|월세|500 / 40" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507181336768"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507181438386', '2')" class="cont">
+						<strong class="tit_a"><span> 에스띠보보2차 B동</span><em><span class="tag_comm2 w">월세</span>300 / 38 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.18</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/18/928c2c81-7fba-4855-9dcb-371659194e62.JPG' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 30.38A/24.46㎡ 중층/총7층 <!--B동--></span>
+							<em>수원시청역 4번출구앞에 넓고 편안한 집이에요</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>오피스공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-235-7114</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F22070800000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^에스띠보보2차^r114^경기도^r114^수원시^r114^권선동', 'F22070800000002', '오피스공인중개사사무소', 'R2507181438386', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507181438386', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507181438386" value="R2507181438386| 에스띠보보2차|월세|300 / 38" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507181438386"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507171724636', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>500 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.17</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 62.36B/27.98㎡ 10층/총16층 <!--1동--></span>
+							<em>벽걸이에어컨설치함,도배장판깨끗,전망굿</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>청명공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-202-1002</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700018')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700018', '청명공인', 'R2507171724636', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507171724636', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507171724636" value="R2507171724636| 훼미리타워|월세|500 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507171724636"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507161602996', '2')" class="cont">
+						<strong class="tit_a"><span> 인계드림힐스 1동</span><em><span class="tag_comm2 w">월세</span>2,000 / 120 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.16</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/20/7d5471fd-702a-4755-8e7b-0dee0ad8edab.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 110.11/44.92㎡ 4층/총12층 <!--1동--></span>
+							<em>전입ok.인계동박스안 풀옵션 투룸.1세대1주차</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>더하임부동산공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-8067-8102</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25020700000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^인계드림힐스^r114^경기도^r114^수원시^r114^인계동', 'F25020700000002', '더하임부동산공인중개사사무소', 'R2507161602996', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507161602996', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507161602996" value="R2507161602996| 인계드림힐스|월세|2,000 / 120" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507161602996"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507151381780', '2')" class="cont">
+						<strong class="tit_a"><span> 영통클래시아 1동</span><em><span class="tag_comm2 w">월세</span>2,000 / 70 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.15</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 68.44E/25.5㎡ 7층/총15층 <!--1동--></span>
+							<em>언제든 입주. 조용하고 아주 깨끗. 대중교통 이용편리.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>민들레공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-205-4980</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20160520145326')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^영통클래시아^r114^경기도^r114^수원시^r114^영통동', 'F20160520145326', '민들레공인', 'R2507151381780', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507151381780', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507151381780" value="R2507151381780| 영통클래시아|월세|2,000 / 70" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507151381780"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507141358018', '2')" class="cont">
+						<strong class="tit_a"><span> 수원역서영더엘 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 130 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.14</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/26/17f7e6c2-bbdd-43fa-a475-79efe6706fac.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 139.9/59.21㎡ 저층/총12층 <!--1동--></span>
+							<em>큰 타입 투룸 , 넓은 테라스 , 어닝 설치 예정</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고등동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^수원역서영더엘^r114^경기도^r114^수원시^r114^고등동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507141358018', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507141358018', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507141358018" value="R2507141358018| 수원역서영더엘|월세|1,000 / 130" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507141358018"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507101609000', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 70 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.10</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 172.17/79.44㎡ 13층/총16층 <!--1동--></span>
+							<em>업무용 빠른 입주 가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2507101609000', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507101609000', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507101609000" value="R2507101609000| 훼미리타워|월세|1,000 / 70" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507101609000"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507091686536', '2')" class="cont">
+						<strong class="tit_a"><span> 삼환아르누보파크 1동</span><em><span class="tag_comm2 w">월세</span>3,000 / 135 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.09</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/09/92196e5f-3849-4d2c-9f0c-8c5d118bd5b9.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 186.98/118.25㎡ 3층/총18층 <!--1동--></span>
+							<em>주거용 . 전입가능 대형 쓰리룸 </em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^삼환아르누보파크^r114^경기도^r114^수원시^r114^인계동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507091686536', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507091686536', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507091686536" value="R2507091686536| 삼환아르누보파크|월세|3,000 / 135" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507091686536"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507081570385', '2')" class="cont">
+						<strong class="tit_a"><span> 캐슬타워 102동</span><em><span class="tag_comm2 w">월세</span>2,000 / 140 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.08</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/02/21/5b3a0b5d-e5ed-4998-990f-84bdebbd5a29.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 178.43/112.53㎡ 11층/총20층 <!--102동--></span>
+							<em>주인실거주 . 완전깔끔 . 전입가능</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^캐슬타워^r114^경기도^r114^수원시^r114^인계동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507081570385', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507081570385', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507081570385" value="R2507081570385| 캐슬타워|월세|2,000 / 140" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507081570385"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507070937240', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 90 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.07</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 162.01/74.65㎡ 7층/총16층 <!--1동--></span>
+							<em>업무시설 빠른입주 가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2507070937240', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507070937240', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507070937240" value="R2507070937240| 훼미리타워|월세|1,000 / 90" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507070937240"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507071143383', '2')" class="cont">
+						<strong class="tit_a"><span> 광교더샵 201동</span><em><span class="tag_comm2 w">월세</span>6,000 / 150 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.07</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/08/e374fee4-fcd1-4be9-80ed-650bdaf24ca7.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 174.38/83.66㎡ 중층/총48층 <!--201동--></span>
+							<em>업무용, 부가세별도, 사업자등록 가능, 에어컨 풀, 빠른 입주</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  원천동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>허브 공인중개사 사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-298-2488</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20220428101310')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^광교더샵^r114^경기도^r114^수원시^r114^원천동', 'F20220428101310', '허브 공인중개사 사무소', 'R2507071143383', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507071143383', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507071143383" value="R2507071143383| 광교더샵|월세|6,000 / 150" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507071143383"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507071550208', '2')" class="cont">
+						<strong class="tit_a"><span> 알스퀘어(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,800 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.07</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/07/d36bbc15-851b-4c3c-83cc-65ec4f55d2c7.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 51.73/25.55㎡ 6층/총12층 <!--1동--></span>
+							<em>전입ok.올림픽공원인근 풀옵션원룸.건조기옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>더하임부동산공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-8067-8102</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25020700000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^알스퀘어(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F25020700000002', '더하임부동산공인중개사사무소', 'R2507071550208', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507071550208', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507071550208" value="R2507071550208| 알스퀘어(민간임대)|월세|4,800 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507071550208"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507041010064', '2')" class="cont">
+						<strong class="tit_a"><span> 드라마시티 1동</span><em><span class="tag_comm2 w">월세</span>500 / 45 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.04</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/04/b3690edf-0643-4545-a39c-08e2529d31d8.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 54.39D/27.63㎡ 저층/총12층 <!--1동--></span>
+							<em>넓은 복층 . 전입가능 . 풀옵션완비</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^드라마시티^r114^경기도^r114^수원시^r114^인계동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507041010064', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507041010064', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507041010064" value="R2507041010064| 드라마시티|월세|500 / 45" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507041010064"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507031401517', '2')" class="cont">
+						<strong class="tit_a"><span> 시리우스에스(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>3,000 / 75 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.03</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/03/229c2e0c-0e90-4d2f-acc7-b1dd12964395.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 48.23/25.44㎡ 7층/총12층 <!--1동--></span>
+							<em>전입ok.반려동물 환영.테라스있는 분리형1.5룸</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>더하임부동산공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-8067-8102</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25020700000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^시리우스에스(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F25020700000002', '더하임부동산공인중개사사무소', 'R2507031401517', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507031401517', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507031401517" value="R2507031401517| 시리우스에스(민간임대)|월세|3,000 / 75" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507031401517"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507011464392', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.01</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 79.5B/36.29㎡ 16층/총16층 <!--1동--></span>
+							<em>업무용 부가세별도  에어컨수리 즉시 입주가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2507011464392', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507011464392', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507011464392" value="R2507011464392| 훼미리타워|월세|1,000 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507011464392"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2506270996356', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.06.27</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 80.75A/36.23㎡ 8층/총16층 <!--1동--></span>
+							<em>업무용 부가세별도  에어컨수리 즉시 입주가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2506270996356', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2506270996356', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2506270996356" value="R2506270996356| 훼미리타워|월세|1,000 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2506270996356"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2506270996348', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 60 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.06.27</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 95.08/42.66㎡ 16층/총16층 <!--1동--></span>
+							<em>주거,업무시설가능,주소전입은안됨,수리되어있으며 빠른입주 가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2506270996348', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2506270996348', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2506270996348" value="R2506270996348| 훼미리타워|월세|1,000 / 60" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2506270996348"> </label>
+                </li>
+				
+
+
+				
+
+				<!-- 중개사무소 문의 팝업  추가 -->
+				<div id="lp_layout_questionToAgent">
+				</div>
+				<!-- //중개사무소 문의 팝업 추가 -->
+<!--@#$ INFO AREA $#@-->
+32
+<!--@#$ INFO AREA $#@-->
+경기도 수원시
+<!--@#$ INFO AREA $#@-->
+				
+
+				
+
+				
+
+
+
+<!--@#$ INFO AREA $#@-->
+{베스트매물리스트노출여부}
+<!--@#$ INFO AREA $#@-->
+{부동산써브매물리스트노출여부}
+<!--@#$ INFO AREA $#@-->
+||
+				
+<!--@#$ INFO AREA $#@-->
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507151483585', '2')" class="cont">
+						<strong class="tit_a"><span> 라온지 1동</span><em><span class="tag_comm2 w">월세</span>2,000 / 45 만원</em></strong>
+						<span class="tag_comm3 type3">추천매물<em>25.07.15</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 66.86B-2/30.78㎡ 고층/총15층 <!--1동--></span>
+							<em>성대정문  근거리      구운동이마트인근  신축오피스텔로 입주협의</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  구운동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>청산랜드공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-297-8855</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20140124180010')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^라온지^r114^경기도^r114^수원시^r114^구운동', 'F20140124180010', '청산랜드공인중개사사무소', 'R2507151483585', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507151483585', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507151483585" value="R2507151483585| 라온지|월세|2,000 / 45" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507151483585"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507051532192', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 90 만원</em></strong>
+						<span class="tag_comm3 type3">추천매물<em>25.07.05</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 162.01/74.65㎡ 7층/총16층 <!--1동--></span>
+							<em>즉시입주 사업자용 전망굿 영통역세권대로변위치 교통주차편리</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class r">R</i>드림공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-204-6333</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700068')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700068', '드림공인', 'R2507051532192', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507051532192', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507051532192" value="R2507051532192| 훼미리타워|월세|1,000 / 90" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507051532192"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507221390568', '2')" class="cont">
+						<strong class="tit_a"><span> 광교SK뷰레이크A B동</span><em><span class="tag_comm2 w">월세</span>20,000 / 180 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.22</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/19/1bb065e7-faa5-4fe7-abcc-68d20a28c4f3.png' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 183.13B/84.96㎡ 저층/총41층 <!--B동--></span>
+							<em>광교SK뷰레이크 4bay 모든방과 거실 모두 호수뷰</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  하동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>SK뷰단지내212-2227공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-212-2227</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20250500000013')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^광교SK뷰레이크A^r114^경기도^r114^수원시^r114^하동', 'F20250500000013', 'SK뷰단지내212-2227공인중개사사무소', 'R2507221390568', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507221390568', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507221390568" value="R2507221390568| 광교SK뷰레이크A|월세|20,000 / 180" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507221390568"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211575307', '2')" class="cont">
+						<strong class="tit_a"><span> 알스퀘어(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,000 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/21/9f27a68d-9f8c-4190-8478-151974eaae66.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 51.01/25.2㎡ 고층/총12층 <!--1동--></span>
+							<em>23년 신축. 8평. 수원시청역세권. 남향. 전입가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^알스퀘어(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211575307', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211575307', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211575307" value="R2507211575307| 알스퀘어(민간임대)|월세|4,000 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211575307"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211574052', '2')" class="cont">
+						<strong class="tit_a"><span> 더올리브(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>3,000 / 100 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/20/ebb74ee7-4a98-43ef-8299-1ed7378d424f.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 110.35/57.51㎡ 중층/총8층 <!--1동--></span>
+							<em>빠른입주가능. 무융자. 보증보험. 풀옵션. 전입가능</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^더올리브(민간임대)^r114^경기도^r114^수원시^r114^인계동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211574052', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211574052', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211574052" value="R2507211574052| 더올리브(민간임대)|월세|3,000 / 100" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211574052"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211574970', '2')" class="cont">
+						<strong class="tit_a"><span> 고색리치아노 1동</span><em><span class="tag_comm2 w">월세</span>500 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/27/877af152-5291-4334-a0f9-51c7adef3cdd.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 27.99A/21.11㎡ 고층/총10층 <!--1동--></span>
+							<em>A타입. 업무용. 보증금조정가능. 단기가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고색동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^고색리치아노^r114^경기도^r114^수원시^r114^고색동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211574970', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211574970', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211574970" value="R2507211574970| 고색리치아노|월세|500 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211574970"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211575229', '2')" class="cont">
+						<strong class="tit_a"><span> 알스퀘어(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,000 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/21/3fb1901a-a67b-4850-a04a-58661b4b9dc1.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 51.73/25.55㎡ 고층/총12층 <!--1동--></span>
+							<em>23년 신축. 7월 말. 수원시청역세권. 북향. 전입가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^알스퀘어(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211575229', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211575229', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211575229" value="R2507211575229| 알스퀘어(민간임대)|월세|4,000 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211575229"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211062213', '2')" class="cont">
+						<strong class="tit_a"><span> 에이스에비뉴더퍼스트 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 100 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/04/7c812d8a-18e2-4d63-b524-3d6778b5510c.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 108.75A/53.18㎡ 저층/총10층 <!--1동--></span>
+							<em>화홍병원 인근 깔끔 신축 투룸 오피스텔</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  호매실동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^에이스에비뉴더퍼스트^r114^경기도^r114^수원시^r114^호매실동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507211062213', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211062213', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211062213" value="R2507211062213| 에이스에비뉴더퍼스트|월세|1,000 / 100" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211062213"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211575044', '2')" class="cont">
+						<strong class="tit_a"><span> 고색리치아노 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/27/5e75c5a6-1cee-4b12-80bf-978c9044a4ac.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 27.99A/21.11㎡ 고층/총10층 <!--1동--></span>
+							<em>A타입. 업무용. 보증금조정가능. 단기가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고색동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^고색리치아노^r114^경기도^r114^수원시^r114^고색동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211575044', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211575044', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211575044" value="R2507211575044| 고색리치아노|월세|1,000 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211575044"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507211574906', '2')" class="cont">
+						<strong class="tit_a"><span> 고색리치아노 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 60 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.21</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/27/c4c6517f-7fa6-4d09-bcc2-07796605de78.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 36.7B/27.68㎡ 고층/총10층 <!--1동--></span>
+							<em>넓은B타입. 업무용. 보증금조정가능. 단기가능. 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고색동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^고색리치아노^r114^경기도^r114^수원시^r114^고색동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507211574906', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507211574906', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507211574906" value="R2507211574906| 고색리치아노|월세|1,000 / 60" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507211574906"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507201154626', '2')" class="cont">
+						<strong class="tit_a"><span> e편한세상시티광교 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 82 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.20</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/21/ea2b2227-b719-4f40-91fb-24cd4d17da36.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 60.33/21.56㎡ 고층/총15층 <!--1동--></span>
+							<em>무융자 전입가능l 즉시입주 가능한 풀옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  이의동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25032000000004')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^e편한세상시티광교^r114^경기도^r114^수원시^r114^이의동', 'F25032000000004', 'The베스트공인중개사사무소', 'R2507201154626', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507201154626', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507201154626" value="R2507201154626| e편한세상시티광교|월세|1,000 / 82" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507201154626"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507191046015', '2')" class="cont">
+						<strong class="tit_a"><span> 시리우스에스(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>9,000 / 90 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.19</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/02/461160d8-3cce-4622-aafb-703081bb0793.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 87.74/46.73㎡ 고층/총12층 <!--1동--></span>
+							<em>투룸 복층 테라스. 반려동물가능. 전입가능. 보증보험가입완료</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^시리우스에스(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507191046015', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507191046015', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507191046015" value="R2507191046015| 시리우스에스(민간임대)|월세|9,000 / 90" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507191046015"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507191045988', '2')" class="cont">
+						<strong class="tit_a"><span> 시리우스에스(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,800 / 70 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.19</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/02/461160d8-3cce-4622-aafb-703081bb0793.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 48.23/25.44㎡ 중층/총12층 <!--1동--></span>
+							<em>안심월세. 풀옵션. 반려동물가능. 전입가능</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24032000000001')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^시리우스에스(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F24032000000001', 'The베스트공인중개사사무소', 'R2507191045988', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507191045988', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507191045988" value="R2507191045988| 시리우스에스(민간임대)|월세|4,800 / 70" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507191045988"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507181438386', '2')" class="cont">
+						<strong class="tit_a"><span> 에스띠보보2차 B동</span><em><span class="tag_comm2 w">월세</span>300 / 38 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.18</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/18/928c2c81-7fba-4855-9dcb-371659194e62.JPG' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 30.38A/24.46㎡ 중층/총7층 <!--B동--></span>
+							<em>수원시청역 4번출구앞에 넓고 편안한 집이에요</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>오피스공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-235-7114</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F22070800000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^에스띠보보2차^r114^경기도^r114^수원시^r114^권선동', 'F22070800000002', '오피스공인중개사사무소', 'R2507181438386', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507181438386', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507181438386" value="R2507181438386| 에스띠보보2차|월세|300 / 38" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507181438386"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507181336768', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>500 / 40 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.18</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 62.93G/28.44㎡ 13층/총16층 <!--1동--></span>
+							<em>주거용, 깨끗해요</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>월드공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-204-2002</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700075')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700075', '월드공인중개사사무소', 'R2507181336768', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507181336768', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507181336768" value="R2507181336768| 훼미리타워|월세|500 / 40" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507181336768"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507171724636', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>500 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.17</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 62.36B/27.98㎡ 10층/총16층 <!--1동--></span>
+							<em>벽걸이에어컨설치함,도배장판깨끗,전망굿</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>청명공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-202-1002</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700018')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700018', '청명공인', 'R2507171724636', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507171724636', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507171724636" value="R2507171724636| 훼미리타워|월세|500 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507171724636"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507161602996', '2')" class="cont">
+						<strong class="tit_a"><span> 인계드림힐스 1동</span><em><span class="tag_comm2 w">월세</span>2,000 / 120 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.16</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/20/7d5471fd-702a-4755-8e7b-0dee0ad8edab.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 110.11/44.92㎡ 4층/총12층 <!--1동--></span>
+							<em>전입ok.인계동박스안 풀옵션 투룸.1세대1주차</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>더하임부동산공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-8067-8102</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25020700000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^인계드림힐스^r114^경기도^r114^수원시^r114^인계동', 'F25020700000002', '더하임부동산공인중개사사무소', 'R2507161602996', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507161602996', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507161602996" value="R2507161602996| 인계드림힐스|월세|2,000 / 120" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507161602996"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507151381780', '2')" class="cont">
+						<strong class="tit_a"><span> 영통클래시아 1동</span><em><span class="tag_comm2 w">월세</span>2,000 / 70 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.15</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 68.44E/25.5㎡ 7층/총15층 <!--1동--></span>
+							<em>언제든 입주. 조용하고 아주 깨끗. 대중교통 이용편리.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>민들레공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-205-4980</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20160520145326')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^영통클래시아^r114^경기도^r114^수원시^r114^영통동', 'F20160520145326', '민들레공인', 'R2507151381780', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507151381780', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507151381780" value="R2507151381780| 영통클래시아|월세|2,000 / 70" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507151381780"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507141358018', '2')" class="cont">
+						<strong class="tit_a"><span> 수원역서영더엘 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 130 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.14</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/26/17f7e6c2-bbdd-43fa-a475-79efe6706fac.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방2개 139.9/59.21㎡ 저층/총12층 <!--1동--></span>
+							<em>큰 타입 투룸 , 넓은 테라스 , 어닝 설치 예정</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  고등동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^수원역서영더엘^r114^경기도^r114^수원시^r114^고등동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507141358018', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507141358018', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507141358018" value="R2507141358018| 수원역서영더엘|월세|1,000 / 130" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507141358018"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507101609000', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 70 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.10</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 172.17/79.44㎡ 13층/총16층 <!--1동--></span>
+							<em>업무용 빠른 입주 가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2507101609000', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507101609000', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507101609000" value="R2507101609000| 훼미리타워|월세|1,000 / 70" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507101609000"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507091686536', '2')" class="cont">
+						<strong class="tit_a"><span> 삼환아르누보파크 1동</span><em><span class="tag_comm2 w">월세</span>3,000 / 135 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.09</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/09/92196e5f-3849-4d2c-9f0c-8c5d118bd5b9.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 186.98/118.25㎡ 3층/총18층 <!--1동--></span>
+							<em>주거용 . 전입가능 대형 쓰리룸 </em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^삼환아르누보파크^r114^경기도^r114^수원시^r114^인계동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507091686536', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507091686536', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507091686536" value="R2507091686536| 삼환아르누보파크|월세|3,000 / 135" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507091686536"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507081570385', '2')" class="cont">
+						<strong class="tit_a"><span> 캐슬타워 102동</span><em><span class="tag_comm2 w">월세</span>2,000 / 140 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.08</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/02/21/5b3a0b5d-e5ed-4998-990f-84bdebbd5a29.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 178.43/112.53㎡ 11층/총20층 <!--102동--></span>
+							<em>주인실거주 . 완전깔끔 . 전입가능</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^캐슬타워^r114^경기도^r114^수원시^r114^인계동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507081570385', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507081570385', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507081570385" value="R2507081570385| 캐슬타워|월세|2,000 / 140" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507081570385"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507070937240', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 90 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.07</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 162.01/74.65㎡ 7층/총16층 <!--1동--></span>
+							<em>업무시설 빠른입주 가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2507070937240', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507070937240', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507070937240" value="R2507070937240| 훼미리타워|월세|1,000 / 90" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507070937240"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507071143383', '2')" class="cont">
+						<strong class="tit_a"><span> 광교더샵 201동</span><em><span class="tag_comm2 w">월세</span>6,000 / 150 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.07</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/05/08/e374fee4-fcd1-4be9-80ed-650bdaf24ca7.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방3개 174.38/83.66㎡ 중층/총48층 <!--201동--></span>
+							<em>업무용, 부가세별도, 사업자등록 가능, 에어컨 풀, 빠른 입주</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  원천동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>허브 공인중개사 사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-298-2488</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F20220428101310')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^광교더샵^r114^경기도^r114^수원시^r114^원천동', 'F20220428101310', '허브 공인중개사 사무소', 'R2507071143383', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507071143383', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507071143383" value="R2507071143383| 광교더샵|월세|6,000 / 150" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507071143383"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507071550208', '2')" class="cont">
+						<strong class="tit_a"><span> 알스퀘어(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>4,800 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.07</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/07/d36bbc15-851b-4c3c-83cc-65ec4f55d2c7.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 51.73/25.55㎡ 6층/총12층 <!--1동--></span>
+							<em>전입ok.올림픽공원인근 풀옵션원룸.건조기옵션</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>더하임부동산공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-8067-8102</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25020700000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^알스퀘어(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F25020700000002', '더하임부동산공인중개사사무소', 'R2507071550208', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507071550208', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507071550208" value="R2507071550208| 알스퀘어(민간임대)|월세|4,800 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507071550208"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507041010064', '2')" class="cont">
+						<strong class="tit_a"><span> 드라마시티 1동</span><em><span class="tag_comm2 w">월세</span>500 / 45 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.04</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/06/04/b3690edf-0643-4545-a39c-08e2529d31d8.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 54.39D/27.63㎡ 저층/총12층 <!--1동--></span>
+							<em>넓은 복층 . 전입가능 . 풀옵션완비</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  인계동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>The베스트공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-238-5949</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F24031800000005')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^드라마시티^r114^경기도^r114^수원시^r114^인계동', 'F24031800000005', 'The베스트공인중개사사무소', 'R2507041010064', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507041010064', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507041010064" value="R2507041010064| 드라마시티|월세|500 / 45" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507041010064"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507031401517', '2')" class="cont">
+						<strong class="tit_a"><span> 시리우스에스(민간임대) 1동</span><em><span class="tag_comm2 w">월세</span>3,000 / 75 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.03</em></span>
+						<div class="thumb">
+							<img src='https://image.r114.co.kr/photo_img/L/2025/07/03/229c2e0c-0e90-4d2f-acc7-b1dd12964395.jpg' alt=''>
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 48.23/25.44㎡ 7층/총12층 <!--1동--></span>
+							<em>전입ok.반려동물 환영.테라스있는 분리형1.5룸</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  권선동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class c">C</i>더하임부동산공인중개사사무소</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-8067-8102</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F25020700000002')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^시리우스에스(민간임대)^r114^경기도^r114^수원시^r114^권선동', 'F25020700000002', '더하임부동산공인중개사사무소', 'R2507031401517', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507031401517', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507031401517" value="R2507031401517| 시리우스에스(민간임대)|월세|3,000 / 75" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507031401517"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2507011464392', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 55 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.07.01</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 79.5B/36.29㎡ 16층/총16층 <!--1동--></span>
+							<em>업무용 부가세별도  에어컨수리 즉시 입주가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2507011464392', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2507011464392', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2507011464392" value="R2507011464392| 훼미리타워|월세|1,000 / 55" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2507011464392"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2506270996356', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 50 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.06.27</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 80.75A/36.23㎡ 8층/총16층 <!--1동--></span>
+							<em>업무용 부가세별도  에어컨수리 즉시 입주가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2506270996356', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2506270996356', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2506270996356" value="R2506270996356| 훼미리타워|월세|1,000 / 50" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2506270996356"> </label>
+                </li>
+				
+				<li>
+					<a href="javascript:" onClick="goHouseDetailPage('R2506270996348', '2')" class="cont">
+						<strong class="tit_a"><span> 훼미리타워 1동</span><em><span class="tag_comm2 w">월세</span>1,000 / 60 만원</em></strong>
+						<span class="tag_comm3 type4">일반매물<em>25.06.27</em></span>
+						<div class="thumb">
+							
+						</div>
+						<span class="txt">
+							<strong>오피스텔</strong><span class="info_memul"> 방1개 95.08/42.66㎡ 16층/총16층 <!--1동--></span>
+							<em>주거,업무시설가능,주소전입은안됨,수리되어있으며 빠른입주 가능합니다.</em>
+							<p><span class="ico_comm_s location4">위치</span>경기도  수원시  영통동</p>
+						</span>
+						<!-- 230103 적장가마크 -->
+                        <div class="proper_price_marker" style="display:none;opacity: 0;">
+                            <span></span>추정가
+                        </div>
+                        <!--// 230103 적장가마크 -->
+					</a>
+					<em class="tel">
+						<div>
+							<p class="name"><i class="ico_class "></i>열방공인</p>
+							<span><i class="ico_comm_s tel">전화번호</i>031-203-0400</span>
+							<a href='javascript:;' class='btn_type1 small' onClick="fnGoJunHome('F02104424700047')">홈페이지</a>
+							<a href="javascript:;" class="btn_type1 small" onClick="openQuestionMemul('#lp_layout2', '월세^r114^오피스텔^r114^훼미리타워^r114^경기도^r114^수원시^r114^영통동', 'F02104424700047', '열방공인', 'R2506270996348', '/Default.asp?_c=memul&_m=HouseDetail&mulcode=R2506270996348', '1')">1:1문의</a>
+						</div>
+					</em>
+					<input type="checkbox" id="best_c1_R2506270996348" value="R2506270996348| 훼미리타워|월세|1,000 / 60" onclick="compareWithAdd(this)" /><label class="sel_box" for="best_c1_R2506270996348"> </label>
+                </li>
+				
+
+
+				
+
+				<!-- 중개사무소 문의 팝업  추가 -->
+				<div id="lp_layout_questionToAgent">
+				</div>
+				<!-- //중개사무소 문의 팝업 추가 -->
+<!--@#$ INFO AREA $#@-->
+32
+<!--@#$ INFO AREA $#@-->
+경기도 수원시
+<!--@#$ INFO AREA $#@-->
+				
+
+				
+
+				
+
+
+
+<!--@#$ INFO AREA $#@-->
+{베스트매물리스트노출여부}
+<!--@#$ INFO AREA $#@-->
+{부동산써브매물리스트노출여부}
+<!--@#$ INFO AREA $#@-->
+||
+

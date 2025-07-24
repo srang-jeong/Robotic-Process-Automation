@@ -9,12 +9,12 @@ time.sleep(2)
 
 # 아이디 입력(XPATH)
 login = driver.find_element(By.XPATH,'//*[@id="id"]').click()
-driver.find_element(By.XPATH,'//*[@id="id"]').send_keys('8984245')
+driver.find_element(By.XPATH,'//*[@id="id"]').send_keys('본인 아이디')
 time.sleep(2)
 
 # 비밀번호 입력(XPATH)
 password = driver.find_element(By.XPATH,'//*[@id="pw"]').click()
-driver.find_element(By.XPATH,'//*[@id="pw"]').send_keys('ioirwrt12!')
+driver.find_element(By.XPATH,'//*[@id="pw"]').send_keys('본인 비빌번호')
 time.sleep(2)
 
 # 로그인 버튼 클릭(XPATH)
